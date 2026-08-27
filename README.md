@@ -24,7 +24,7 @@ The **Agentic Profile Matching System** is a sophisticated multi-agent workflow 
 
 This project fulfills all requirements for the **Agentic Profile Matching** assignment:
 
-### ✅ Part A: Agent Architecture (40%)
+### Agent Architecture
 
 | Requirement | Implementation |
 |-------------|----------------|
@@ -34,7 +34,7 @@ This project fulfills all requirements for the **Agentic Profile Matching** assi
 | **RAG Search Tool** | Candidate resume search and filtering |
 | **Custom Tools** | `extract_requirements()`, `compare_candidates()`, `generate_interview_questions()` |
 
-### ✅ Part B: Interactive Features (30%)
+### Interactive Features
 
 | Requirement | Implementation |
 |-------------|----------------|
@@ -42,7 +42,7 @@ This project fulfills all requirements for the **Agentic Profile Matching** assi
 | **Natural Language Queries** | "Compare the top 3 candidates", "Why did Alice rank higher?", "Generate interview questions" |
 | **Iterative Refinement** | Human feedback loop for requirement adjustment |
 
-### ✅ Part C: Advanced Capabilities (30%)
+### Advanced Capabilities
 
 | Requirement | Implementation |
 |-------------|----------------|
