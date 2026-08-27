@@ -20,7 +20,7 @@ The **Agentic Profile Matching System** is a sophisticated multi-agent workflow 
 - **🔄 Iterative Refinement**: Adjust requirements and re-rank candidates
 - **🎯 Tool Integration**: Resume search, comparison, interview question generation
 
-## 📁 Assignment Requirements
+
 
 This project fulfills all requirements for the **Agentic Profile Matching** assignment:
 
