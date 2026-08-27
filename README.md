@@ -136,7 +136,7 @@ flowchart TD
     style F3 fill:#90EE90,stroke:#333,stroke-width:2px
     style F4 fill:#FFF3CD,stroke:#333,stroke-width:2px
     style F5 fill:#F8D7DA,stroke:#333,stroke-width:2px
-'''
+```
 🛠️ Technology Stack
 LangGraph - Agentic workflow orchestration
 
