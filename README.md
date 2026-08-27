@@ -5,7 +5,7 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-orange.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-4.0+-purple.svg)
 
-> **An intelligent agentic workflow for automated candidate screening and matching using LangGraph**
+> **An intelligent agentic workflow for automated candidate screening and matching using LangGraph** 
 
 ## 📋 Project Overview
 
